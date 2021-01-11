@@ -1,2 +1,5 @@
 hypothesis_testing/data
 hypothesis_testing/intro2stats-master
+*/data
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
